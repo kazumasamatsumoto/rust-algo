@@ -1,0 +1,6 @@
+[package]
+name = "card-game-for-two"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
